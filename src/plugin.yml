@@ -1,0 +1,8 @@
+name: VFLTimer
+main: com.leontg77.timer.Main
+version: 1.0.0
+author: Not me
+description: VFL Time plugin.
+
+commands:
+  timer:
