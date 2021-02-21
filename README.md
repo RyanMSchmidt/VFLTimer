@@ -18,6 +18,10 @@ ___
 
 `/timer reload` - *Reload the configuration.*
 
+`/timer pause` - *Pauses timer*
+
+`/timer unpause` - *Unpauses timer*
+
 `/timer update <color> [style]` - *Update the boss bar color and style, if enabled.*
 
 **Permissions:**
