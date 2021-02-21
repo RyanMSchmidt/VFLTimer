@@ -27,10 +27,5 @@ ___
 **Permissions:**
 
 `timer.manage` - *Permission to use* `/timer`*.*
-___
-
-[**Download**](https://github.com/LeonTG/Timer/releases)
-
-[**Source Code**](https://github.com/LeonTG/Timer)
 
 *This has been tested on the latest spigot 1.8.8 & 1.12.2 build.*
